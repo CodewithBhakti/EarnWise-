@@ -1,5 +1,8 @@
 # EarnWise ⚡
 
+##Live Link-
+https://binaryhack.onrender.com/
+
 ### Micro-Investment & Savings Platform for Gig Workers
 
 > **"Your income changes every day. Your financial plan should too."**
