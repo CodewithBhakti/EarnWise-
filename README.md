@@ -1,7 +1,5 @@
-# EarnWise-
-EarnWise is an intelligent fintech platform for gig workers that automates savings, tax reserves, and micro-investments based on irregular income while maintaining financial safety and user control.
-
 # EarnWise ⚡
+EarnWise is an intelligent fintech platform for gig workers that automates savings, tax reserves, and micro-investments based on irregular income while maintaining financial safety and user control.
 
 ### Micro-Investment & Savings Platform for Gig Workers
 
