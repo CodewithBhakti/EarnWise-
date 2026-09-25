@@ -80,8 +80,4 @@ Additional safeguards:
 * Minimum balance: **₹5,000**
 * Monthly savings ceiling: **₹8,000**
 * Tax provisioning: **10% per payout**
-* Vidisha Kotiyal
 
-## 🔗 Repository
-
-https://github.com/drishtity/EarnWise
